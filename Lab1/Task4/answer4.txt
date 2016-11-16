@@ -1,0 +1,12 @@
+Question 4.1
+Execute your program at least 100 times. Do you observe significant differences compared to your program from task 3.1? In which scenarios would you use message queues, in which pipes?
+	There is no difference from the task in 3.1.
+If we need the message to be read by multiple systems then we can have a message queue with a number of processes subscribed. Message queues can be used for communication between processes that do not share a common ancestor.
+Caller process can pick the message to read from the queue, where as in pipes, it is a fifo order.
+pipe outputs the message to the receiver process. If we need huge transfer of data, we would use pipes since there is no limitation of size, queues have size limitations.
+
+Question 4.2
+Do you see use cases or reasons for using message queues within a multi-threaded software?
+	Queues can be used between threads that do not explicitly know eachother, they just interact through the queue (knowing only the queue name).
+	Message queues can be opened without cooperation.
+	They are fixed in size and message oriented, so the nth message is immediatley accessible.

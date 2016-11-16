@@ -1,0 +1,1313 @@
+Parent - mq created 
+Parent process ID : 4515, Value of my_value : 42
+Child with process ID 4516 was created by parent with PID 4515 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4516, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4515 and my_value=42 
+Child - mq closed 
+Child with process ID 4516 has terminated. Value of my_value : 42
+Parent process : 4515, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4517, Value of my_value : 42
+Child with process ID 4518 was created by parent with PID 4517 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4518, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4517 and my_value=42 
+Child - mq closed 
+Child with process ID 4518 has terminated. Value of my_value : 42
+Parent process : 4517, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4521, Value of my_value : 42
+Child with process ID 4522 was created by parent with PID 4521 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4522, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4521 and my_value=42 
+Child - mq closed 
+Child with process ID 4522 has terminated. Value of my_value : 42
+Parent process : 4521, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4524, Value of my_value : 42
+Child with process ID 4525 was created by parent with PID 4524 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4525, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4524 and my_value=42 
+Child - mq closed 
+Child with process ID 4525 has terminated. Value of my_value : 42
+Parent process : 4524, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4527, Value of my_value : 42
+Child with process ID 4528 was created by parent with PID 4527 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4528, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4527 and my_value=42 
+Child - mq closed 
+Child with process ID 4528 has terminated. Value of my_value : 42
+Parent process : 4527, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4529, Value of my_value : 42
+Child with process ID 4530 was created by parent with PID 4529 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4530, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4529 and my_value=42 
+Child - mq closed 
+Child with process ID 4530 has terminated. Value of my_value : 42
+Parent process : 4529, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4532, Value of my_value : 42
+Child with process ID 4533 was created by parent with PID 4532 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4533, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4532 and my_value=42 
+Child - mq closed 
+Child with process ID 4533 has terminated. Value of my_value : 42
+Parent process : 4532, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4534, Value of my_value : 42
+Child with process ID 4535 was created by parent with PID 4534 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4535, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4534 and my_value=42 
+Child - mq closed 
+Child with process ID 4535 has terminated. Value of my_value : 42
+Parent process : 4534, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4537, Value of my_value : 42
+Child with process ID 4538 was created by parent with PID 4537 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4538, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4537 and my_value=42 
+Child - mq closed 
+Child with process ID 4538 has terminated. Value of my_value : 42
+Parent process : 4537, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4539, Value of my_value : 42
+Child with process ID 4540 was created by parent with PID 4539 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4540, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4539 and my_value=42 
+Child - mq closed 
+Child with process ID 4540 has terminated. Value of my_value : 42
+Parent process : 4539, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4543, Value of my_value : 42
+Child with process ID 4544 was created by parent with PID 4543 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4544, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4543 and my_value=42 
+Child - mq closed 
+Child with process ID 4544 has terminated. Value of my_value : 42
+Parent process : 4543, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4545, Value of my_value : 42
+Child with process ID 4546 was created by parent with PID 4545 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4546, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4545 and my_value=42 
+Child - mq closed 
+Child with process ID 4546 has terminated. Value of my_value : 42
+Parent process : 4545, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4548, Value of my_value : 42
+Child with process ID 4549 was created by parent with PID 4548 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4549, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4548 and my_value=42 
+Child - mq closed 
+Child with process ID 4549 has terminated. Value of my_value : 42
+Parent process : 4548, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4550, Value of my_value : 42
+Child with process ID 4551 was created by parent with PID 4550 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4551, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4550 and my_value=42 
+Child - mq closed 
+Child with process ID 4551 has terminated. Value of my_value : 42
+Parent process : 4550, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4553, Value of my_value : 42
+Child with process ID 4554 was created by parent with PID 4553 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4554, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4553 and my_value=42 
+Child - mq closed 
+Child with process ID 4554 has terminated. Value of my_value : 42
+Parent process : 4553, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4555, Value of my_value : 42
+Child with process ID 4556 was created by parent with PID 4555 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4556, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4555 and my_value=42 
+Child - mq closed 
+Child with process ID 4556 has terminated. Value of my_value : 42
+Parent process : 4555, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4558, Value of my_value : 42
+Child with process ID 4559 was created by parent with PID 4558 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4559, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4558 and my_value=42 
+Child - mq closed 
+Child with process ID 4559 has terminated. Value of my_value : 42
+Parent process : 4558, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4560, Value of my_value : 42
+Child with process ID 4561 was created by parent with PID 4560 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4561, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4560 and my_value=42 
+Child - mq closed 
+Child with process ID 4561 has terminated. Value of my_value : 42
+Parent process : 4560, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4564, Value of my_value : 42
+Child with process ID 4565 was created by parent with PID 4564 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4565, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4564 and my_value=42 
+Child - mq closed 
+Child with process ID 4565 has terminated. Value of my_value : 42
+Parent process : 4564, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4566, Value of my_value : 42
+Child with process ID 4567 was created by parent with PID 4566 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4567, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4566 and my_value=42 
+Child - mq closed 
+Child with process ID 4567 has terminated. Value of my_value : 42
+Parent process : 4566, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4569, Value of my_value : 42
+Child with process ID 4570 was created by parent with PID 4569 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4570, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4569 and my_value=42 
+Child - mq closed 
+Child with process ID 4570 has terminated. Value of my_value : 42
+Parent process : 4569, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4571, Value of my_value : 42
+Child with process ID 4572 was created by parent with PID 4571 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4572, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4571 and my_value=42 
+Child - mq closed 
+Child with process ID 4572 has terminated. Value of my_value : 42
+Parent process : 4571, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4574, Value of my_value : 42
+Child with process ID 4575 was created by parent with PID 4574 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4575, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4574 and my_value=42 
+Child - mq closed 
+Child with process ID 4575 has terminated. Value of my_value : 42
+Parent process : 4574, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4576, Value of my_value : 42
+Child with process ID 4577 was created by parent with PID 4576 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4577, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4576 and my_value=42 
+Child - mq closed 
+Child with process ID 4577 has terminated. Value of my_value : 42
+Parent process : 4576, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4579, Value of my_value : 42
+Child with process ID 4580 was created by parent with PID 4579 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4580, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4579 and my_value=42 
+Child - mq closed 
+Child with process ID 4580 has terminated. Value of my_value : 42
+Parent process : 4579, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4581, Value of my_value : 42
+Child with process ID 4583 was created by parent with PID 4581 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4583, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4581 and my_value=42 
+Child - mq closed 
+Child with process ID 4583 has terminated. Value of my_value : 42
+Parent process : 4581, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4585, Value of my_value : 42
+Child with process ID 4586 was created by parent with PID 4585 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4586, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4585 and my_value=42 
+Child - mq closed 
+Child with process ID 4586 has terminated. Value of my_value : 42
+Parent process : 4585, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4587, Value of my_value : 42
+Child with process ID 4588 was created by parent with PID 4587 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4588, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4587 and my_value=42 
+Child - mq closed 
+Child with process ID 4588 has terminated. Value of my_value : 42
+Parent process : 4587, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4590, Value of my_value : 42
+Child with process ID 4591 was created by parent with PID 4590 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4591, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4590 and my_value=42 
+Child - mq closed 
+Child with process ID 4591 has terminated. Value of my_value : 42
+Parent process : 4590, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4592, Value of my_value : 42
+Child with process ID 4593 was created by parent with PID 4592 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4593, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4592 and my_value=42 
+Child - mq closed 
+Child with process ID 4593 has terminated. Value of my_value : 42
+Parent process : 4592, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4595, Value of my_value : 42
+Child with process ID 4596 was created by parent with PID 4595 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4596, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4595 and my_value=42 
+Child - mq closed 
+Child with process ID 4596 has terminated. Value of my_value : 42
+Parent process : 4595, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4597, Value of my_value : 42
+Child with process ID 4598 was created by parent with PID 4597 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4598, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4597 and my_value=42 
+Child - mq closed 
+Child with process ID 4598 has terminated. Value of my_value : 42
+Parent process : 4597, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4600, Value of my_value : 42
+Child with process ID 4601 was created by parent with PID 4600 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4601, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4600 and my_value=42 
+Child - mq closed 
+Child with process ID 4601 has terminated. Value of my_value : 42
+Parent process : 4600, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4603, Value of my_value : 42
+Child with process ID 4604 was created by parent with PID 4603 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4604, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4603 and my_value=42 
+Child - mq closed 
+Child with process ID 4604 has terminated. Value of my_value : 42
+Parent process : 4603, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4606, Value of my_value : 42
+Child with process ID 4607 was created by parent with PID 4606 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4607, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4606 and my_value=42 
+Child - mq closed 
+Child with process ID 4607 has terminated. Value of my_value : 42
+Parent process : 4606, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4608, Value of my_value : 42
+Child with process ID 4609 was created by parent with PID 4608 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4609, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4608 and my_value=42 
+Child - mq closed 
+Child with process ID 4609 has terminated. Value of my_value : 42
+Parent process : 4608, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4611, Value of my_value : 42
+Child with process ID 4612 was created by parent with PID 4611 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4612, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4611 and my_value=42 
+Child - mq closed 
+Child with process ID 4612 has terminated. Value of my_value : 42
+Parent process : 4611, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4613, Value of my_value : 42
+Child with process ID 4614 was created by parent with PID 4613 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4614, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4613 and my_value=42 
+Child - mq closed 
+Child with process ID 4614 has terminated. Value of my_value : 42
+Parent process : 4613, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4616, Value of my_value : 42
+Child with process ID 4617 was created by parent with PID 4616 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4617, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4616 and my_value=42 
+Child - mq closed 
+Child with process ID 4617 has terminated. Value of my_value : 42
+Parent process : 4616, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4618, Value of my_value : 42
+Child with process ID 4619 was created by parent with PID 4618 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4619, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4618 and my_value=42 
+Child - mq closed 
+Child with process ID 4619 has terminated. Value of my_value : 42
+Parent process : 4618, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4621, Value of my_value : 42
+Child with process ID 4622 was created by parent with PID 4621 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4622, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4621 and my_value=42 
+Child - mq closed 
+Child with process ID 4622 has terminated. Value of my_value : 42
+Parent process : 4621, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4624, Value of my_value : 42
+Child with process ID 4625 was created by parent with PID 4624 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4625, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4624 and my_value=42 
+Child - mq closed 
+Child with process ID 4625 has terminated. Value of my_value : 42
+Parent process : 4624, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4627, Value of my_value : 42
+Child with process ID 4628 was created by parent with PID 4627 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4628, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4627 and my_value=42 
+Child - mq closed 
+Child with process ID 4628 has terminated. Value of my_value : 42
+Parent process : 4627, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4629, Value of my_value : 42
+Child with process ID 4630 was created by parent with PID 4629 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4630, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4629 and my_value=42 
+Child - mq closed 
+Child with process ID 4630 has terminated. Value of my_value : 42
+Parent process : 4629, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4632, Value of my_value : 42
+Child with process ID 4633 was created by parent with PID 4632 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4633, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4632 and my_value=42 
+Child - mq closed 
+Child with process ID 4633 has terminated. Value of my_value : 42
+Parent process : 4632, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4634, Value of my_value : 42
+Child with process ID 4635 was created by parent with PID 4634 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4635, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4634 and my_value=42 
+Child - mq closed 
+Child with process ID 4635 has terminated. Value of my_value : 42
+Parent process : 4634, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4637, Value of my_value : 42
+Child with process ID 4638 was created by parent with PID 4637 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4638, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4637 and my_value=42 
+Child - mq closed 
+Child with process ID 4638 has terminated. Value of my_value : 42
+Parent process : 4637, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4639, Value of my_value : 42
+Child with process ID 4640 was created by parent with PID 4639 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4640, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4639 and my_value=42 
+Child - mq closed 
+Child with process ID 4640 has terminated. Value of my_value : 42
+Parent process : 4639, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4643, Value of my_value : 42
+Child with process ID 4644 was created by parent with PID 4643 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4644, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4643 and my_value=42 
+Child - mq closed 
+Child with process ID 4644 has terminated. Value of my_value : 42
+Parent process : 4643, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4645, Value of my_value : 42
+Child with process ID 4646 was created by parent with PID 4645 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4646, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4645 and my_value=42 
+Child - mq closed 
+Child with process ID 4646 has terminated. Value of my_value : 42
+Parent process : 4645, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4648, Value of my_value : 42
+Child with process ID 4649 was created by parent with PID 4648 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4649, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4648 and my_value=42 
+Child - mq closed 
+Child with process ID 4649 has terminated. Value of my_value : 42
+Parent process : 4648, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4650, Value of my_value : 42
+Child with process ID 4651 was created by parent with PID 4650 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4651, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4650 and my_value=42 
+Child - mq closed 
+Child with process ID 4651 has terminated. Value of my_value : 42
+Parent process : 4650, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4653, Value of my_value : 42
+Child with process ID 4654 was created by parent with PID 4653 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4654, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4653 and my_value=42 
+Child - mq closed 
+Child with process ID 4654 has terminated. Value of my_value : 42
+Parent process : 4653, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4655, Value of my_value : 42
+Child with process ID 4656 was created by parent with PID 4655 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4656, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4655 and my_value=42 
+Child - mq closed 
+Child with process ID 4656 has terminated. Value of my_value : 42
+Parent process : 4655, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4658, Value of my_value : 42
+Child with process ID 4659 was created by parent with PID 4658 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4659, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4658 and my_value=42 
+Child - mq closed 
+Child with process ID 4659 has terminated. Value of my_value : 42
+Parent process : 4658, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4660, Value of my_value : 42
+Child with process ID 4661 was created by parent with PID 4660 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4661, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4660 and my_value=42 
+Child - mq closed 
+Child with process ID 4661 has terminated. Value of my_value : 42
+Parent process : 4660, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4664, Value of my_value : 42
+Child with process ID 4665 was created by parent with PID 4664 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4665, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4664 and my_value=42 
+Child - mq closed 
+Child with process ID 4665 has terminated. Value of my_value : 42
+Parent process : 4664, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4666, Value of my_value : 42
+Child with process ID 4667 was created by parent with PID 4666 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4667, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4666 and my_value=42 
+Child - mq closed 
+Child with process ID 4667 has terminated. Value of my_value : 42
+Parent process : 4666, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4669, Value of my_value : 42
+Child with process ID 4670 was created by parent with PID 4669 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4670, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4669 and my_value=42 
+Child - mq closed 
+Child with process ID 4670 has terminated. Value of my_value : 42
+Parent process : 4669, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4671, Value of my_value : 42
+Child with process ID 4672 was created by parent with PID 4671 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4672, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4671 and my_value=42 
+Child - mq closed 
+Child with process ID 4672 has terminated. Value of my_value : 42
+Parent process : 4671, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4674, Value of my_value : 42
+Child with process ID 4675 was created by parent with PID 4674 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4675, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4674 and my_value=42 
+Child - mq closed 
+Child with process ID 4675 has terminated. Value of my_value : 42
+Parent process : 4674, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4676, Value of my_value : 42
+Child with process ID 4677 was created by parent with PID 4676 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4677, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4676 and my_value=42 
+Child - mq closed 
+Child with process ID 4677 has terminated. Value of my_value : 42
+Parent process : 4676, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4679, Value of my_value : 42
+Child with process ID 4680 was created by parent with PID 4679 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4680, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4679 and my_value=42 
+Child - mq closed 
+Child with process ID 4680 has terminated. Value of my_value : 42
+Parent process : 4679, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4682, Value of my_value : 42
+Child with process ID 4683 was created by parent with PID 4682 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4683, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4682 and my_value=42 
+Child - mq closed 
+Child with process ID 4683 has terminated. Value of my_value : 42
+Parent process : 4682, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4685, Value of my_value : 42
+Child with process ID 4686 was created by parent with PID 4685 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4686, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4685 and my_value=42 
+Child - mq closed 
+Child with process ID 4686 has terminated. Value of my_value : 42
+Parent process : 4685, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4687, Value of my_value : 42
+Child with process ID 4688 was created by parent with PID 4687 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4688, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4687 and my_value=42 
+Child - mq closed 
+Child with process ID 4688 has terminated. Value of my_value : 42
+Parent process : 4687, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4690, Value of my_value : 42
+Child with process ID 4691 was created by parent with PID 4690 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4691, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4690 and my_value=42 
+Child - mq closed 
+Child with process ID 4691 has terminated. Value of my_value : 42
+Parent process : 4690, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4692, Value of my_value : 42
+Child with process ID 4693 was created by parent with PID 4692 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4693, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4692 and my_value=42 
+Child - mq closed 
+Child with process ID 4693 has terminated. Value of my_value : 42
+Parent process : 4692, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4695, Value of my_value : 42
+Child with process ID 4696 was created by parent with PID 4695 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4696, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4695 and my_value=42 
+Child - mq closed 
+Child with process ID 4696 has terminated. Value of my_value : 42
+Parent process : 4695, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4697, Value of my_value : 42
+Child with process ID 4698 was created by parent with PID 4697 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4698, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4697 and my_value=42 
+Child - mq closed 
+Child with process ID 4698 has terminated. Value of my_value : 42
+Parent process : 4697, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4700, Value of my_value : 42
+Child with process ID 4701 was created by parent with PID 4700 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4701, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4700 and my_value=42 
+Child - mq closed 
+Child with process ID 4701 has terminated. Value of my_value : 42
+Parent process : 4700, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4703, Value of my_value : 42
+Child with process ID 4704 was created by parent with PID 4703 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4704, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4703 and my_value=42 
+Child - mq closed 
+Child with process ID 4704 has terminated. Value of my_value : 42
+Parent process : 4703, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4706, Value of my_value : 42
+Child with process ID 4707 was created by parent with PID 4706 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4707, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4706 and my_value=42 
+Child - mq closed 
+Child with process ID 4707 has terminated. Value of my_value : 42
+Parent process : 4706, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4708, Value of my_value : 42
+Child with process ID 4709 was created by parent with PID 4708 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4709, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4708 and my_value=42 
+Child - mq closed 
+Child with process ID 4709 has terminated. Value of my_value : 42
+Parent process : 4708, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4711, Value of my_value : 42
+Child with process ID 4712 was created by parent with PID 4711 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4712, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4711 and my_value=42 
+Child - mq closed 
+Child with process ID 4712 has terminated. Value of my_value : 42
+Parent process : 4711, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4713, Value of my_value : 42
+Child with process ID 4714 was created by parent with PID 4713 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4714, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4713 and my_value=42 
+Child - mq closed 
+Child with process ID 4714 has terminated. Value of my_value : 42
+Parent process : 4713, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4716, Value of my_value : 42
+Child with process ID 4717 was created by parent with PID 4716 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4717, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4716 and my_value=42 
+Child - mq closed 
+Child with process ID 4717 has terminated. Value of my_value : 42
+Parent process : 4716, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4718, Value of my_value : 42
+Child with process ID 4719 was created by parent with PID 4718 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4719, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4718 and my_value=42 
+Child - mq closed 
+Child with process ID 4719 has terminated. Value of my_value : 42
+Parent process : 4718, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4722, Value of my_value : 42
+Child with process ID 4723 was created by parent with PID 4722 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4723, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4722 and my_value=42 
+Child - mq closed 
+Child with process ID 4723 has terminated. Value of my_value : 42
+Parent process : 4722, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4724, Value of my_value : 42
+Child with process ID 4725 was created by parent with PID 4724 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4725, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4724 and my_value=42 
+Child - mq closed 
+Child with process ID 4725 has terminated. Value of my_value : 42
+Parent process : 4724, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4727, Value of my_value : 42
+Child with process ID 4728 was created by parent with PID 4727 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4728, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4727 and my_value=42 
+Child - mq closed 
+Child with process ID 4728 has terminated. Value of my_value : 42
+Parent process : 4727, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4729, Value of my_value : 42
+Child with process ID 4730 was created by parent with PID 4729 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4730, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4729 and my_value=42 
+Child - mq closed 
+Child with process ID 4730 has terminated. Value of my_value : 42
+Parent process : 4729, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4732, Value of my_value : 42
+Child with process ID 4733 was created by parent with PID 4732 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4733, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4732 and my_value=42 
+Child - mq closed 
+Child with process ID 4733 has terminated. Value of my_value : 42
+Parent process : 4732, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4734, Value of my_value : 42
+Child with process ID 4735 was created by parent with PID 4734 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4735, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4734 and my_value=42 
+Child - mq closed 
+Child with process ID 4735 has terminated. Value of my_value : 42
+Parent process : 4734, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4737, Value of my_value : 42
+Child with process ID 4738 was created by parent with PID 4737 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4738, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4737 and my_value=42 
+Child - mq closed 
+Child with process ID 4738 has terminated. Value of my_value : 42
+Parent process : 4737, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4739, Value of my_value : 42
+Child with process ID 4740 was created by parent with PID 4739 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4740, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4739 and my_value=42 
+Child - mq closed 
+Child with process ID 4740 has terminated. Value of my_value : 42
+Parent process : 4739, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4743, Value of my_value : 42
+Child with process ID 4744 was created by parent with PID 4743 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4744, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4743 and my_value=42 
+Child - mq closed 
+Child with process ID 4744 has terminated. Value of my_value : 42
+Parent process : 4743, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4745, Value of my_value : 42
+Child with process ID 4746 was created by parent with PID 4745 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4746, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4745 and my_value=42 
+Child - mq closed 
+Child with process ID 4746 has terminated. Value of my_value : 42
+Parent process : 4745, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4748, Value of my_value : 42
+Child with process ID 4749 was created by parent with PID 4748 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4749, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4748 and my_value=42 
+Child - mq closed 
+Child with process ID 4749 has terminated. Value of my_value : 42
+Parent process : 4748, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4750, Value of my_value : 42
+Child with process ID 4751 was created by parent with PID 4750 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4751, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4750 and my_value=42 
+Child - mq closed 
+Child with process ID 4751 has terminated. Value of my_value : 42
+Parent process : 4750, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4753, Value of my_value : 42
+Child with process ID 4754 was created by parent with PID 4753 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4754, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4753 and my_value=42 
+Child - mq closed 
+Child with process ID 4754 has terminated. Value of my_value : 42
+Parent process : 4753, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4755, Value of my_value : 42
+Child with process ID 4756 was created by parent with PID 4755 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4756, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4755 and my_value=42 
+Child - mq closed 
+Child with process ID 4756 has terminated. Value of my_value : 42
+Parent process : 4755, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4758, Value of my_value : 42
+Child with process ID 4759 was created by parent with PID 4758 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4759, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4758 and my_value=42 
+Child - mq closed 
+Child with process ID 4759 has terminated. Value of my_value : 42
+Parent process : 4758, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4761, Value of my_value : 42
+Child with process ID 4762 was created by parent with PID 4761 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4762, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4761 and my_value=42 
+Child - mq closed 
+Child with process ID 4762 has terminated. Value of my_value : 42
+Parent process : 4761, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4764, Value of my_value : 42
+Child with process ID 4765 was created by parent with PID 4764 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4765, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4764 and my_value=42 
+Child - mq closed 
+Child with process ID 4765 has terminated. Value of my_value : 42
+Parent process : 4764, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4766, Value of my_value : 42
+Child with process ID 4767 was created by parent with PID 4766 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4767, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4766 and my_value=42 
+Child - mq closed 
+Child with process ID 4767 has terminated. Value of my_value : 42
+Parent process : 4766, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4769, Value of my_value : 42
+Child with process ID 4770 was created by parent with PID 4769 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4770, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4769 and my_value=42 
+Child - mq closed 
+Child with process ID 4770 has terminated. Value of my_value : 42
+Parent process : 4769, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4771, Value of my_value : 42
+Child with process ID 4772 was created by parent with PID 4771 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4772, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4771 and my_value=42 
+Child - mq closed 
+Child with process ID 4772 has terminated. Value of my_value : 42
+Parent process : 4771, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4774, Value of my_value : 42
+Child with process ID 4775 was created by parent with PID 4774 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4775, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4774 and my_value=42 
+Child - mq closed 
+Child with process ID 4775 has terminated. Value of my_value : 42
+Parent process : 4774, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Child - mq opened 
+Child process ID : 4777, Value of my_value : 18951
+Parent process ID : 4776, Value of my_value : 42
+Child with process ID 4777 was created by parent with PID 4776 
+Parent - message sent 
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4776 and my_value=42 
+Child - mq closed 
+Child with process ID 4777 has terminated. Value of my_value : 42
+Parent process : 4776, terminating now.
+Parent - mq closed 
+Parent - mq removed 
+Parent - mq created 
+Parent process ID : 4779, Value of my_value : 42
+Child with process ID 4780 was created by parent with PID 4779 
+Parent - message sent 
+Child - mq opened 
+Child process ID : 4780, Value of my_value : 18951
+Child - message received 
+The message from parent : Hi, I am your parent. My PID=4779 and my_value=42 
+Child - mq closed 
+Child with process ID 4780 has terminated. Value of my_value : 42
+Parent process : 4779, terminating now.
+Parent - mq closed 
+Parent - mq removed 

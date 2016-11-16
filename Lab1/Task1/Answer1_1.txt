@@ -1,0 +1,8 @@
+Question:
+Execute your program from task 1.1 at least 100 times. Is the output of your program always
+exactly the same? Which value does the parent process print for my_value? What does the
+child print? Explain your observations.
+
+Answer: Yes, it is always the same output. The parent process prints 42 and the child process prints 18951.
+
+This is because fork copies the whole process, therefore works the child process also with a copy of my_value.

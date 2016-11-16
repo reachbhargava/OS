@@ -1,0 +1,29 @@
+[11/30/2015 18:03] root@ubuntu:/home/student/Documents/OSLab2/Task2# make
+make -C /lib/modules/3.5.0-37-generic/build SUBDIRS=/home/student/Documents/OSLab2/Task2 modules
+make[1]: Entering directory `/usr/src/linux-headers-3.5.0-37-generic'
+  CC [M]  /home/student/Documents/OSLab2/Task2/MyClock_Task1_2.o
+In file included from /usr/src/linux-headers-3.5.0-37-generic/arch/x86/include/asm/uaccess.h:584:0,
+                 from include/linux/uaccess.h:5,
+                 from /home/student/Documents/OSLab2/Task2/MyClock_Task1_2.c:8:
+In function ‘copy_from_user’,
+    inlined from ‘clock_config_write’ at /home/student/Documents/OSLab2/Task2/MyClock_Task1_2.c:116:21:
+/usr/src/linux-headers-3.5.0-37-generic/arch/x86/include/asm/uaccess_32.h:211:26: warning: call to ‘copy_from_user_overflow’ declared with attribute warning: copy_from_user() buffer size is not provably correct [enabled by default]
+  Building modules, stage 2.
+  MODPOST 1 modules
+  CC      /home/student/Documents/OSLab2/Task2/MyClock_Task1_2.mod.o
+  LD [M]  /home/student/Documents/OSLab2/Task2/MyClock_Task1_2.ko
+make[1]: Leaving directory `/usr/src/linux-headers-3.5.0-37-generic'
+[11/30/2015 18:04] root@ubuntu:/home/student/Documents/OSLab2/Task2# insmod MyClock_Task1_2.ko
+[11/30/2015 18:05] root@ubuntu:/home/student/Documents/OSLab2/Task2# ls /proc/deeds_clock /proc/deeds_clock_config 
+/proc/deeds_clock  /proc/deeds_clock_config
+[11/30/2015 18:06] root@ubuntu:/home/student/Documents/OSLab2/Task2# echo "0" > /proc/deeds_clock_config 
+[11/30/2015 18:06] root@ubuntu:/home/student/Documents/OSLab2/Task2# cat /proc/deeds_clock_config 
+current clock format: 0
+[11/30/2015 18:06] root@ubuntu:/home/student/Documents/OSLab2/Task2# cat /proc/deeds_clock
+current time: 1448903224 seconds 
+[11/30/2015 18:07] root@ubuntu:/home/student/Documents/OSLab2/Task2# echo "1" > /proc/deeds_clock_config 
+[11/30/2015 18:07] root@ubuntu:/home/student/Documents/OSLab2/Task2# cat /proc/deeds_clock_config 
+current clock format: 1
+[11/30/2015 18:07] root@ubuntu:/home/student/Documents/OSLab2/Task2# cat /proc/deeds_clock
+current time: 2015-11-30 18:7:22 
+[11/30/2015 18:07] root@ubuntu:/home/student/Documents/OSLab2/Task2# dmesg

@@ -1,0 +1,19 @@
+Question 3.1
+Execute your program from task 3.1 at least 100 times. Is the output always the same?
+What is printed for my_value? Explain your observations.
+Answer:
+The output is always the same.
+Because of the fork() call there is again a seperate version of my_value for parent and child
+But because the message was sent and created by the parent, it states the same value as that of the parent.
+
+Question 3.2
+Can you image reasons for and against using pipes for communication within multi-threaded
+software?
+Answer:
++there is no need for synchronization, reciever can read message whenever needed.
+
+- In case synchronization is needed, we need to use shared memory based usage. 
+- Pipes are used for half duplex communication, for bi-directional communication, we would need two separate pipes
+- A common ancestor is needed to use pipes between processes.
+
+

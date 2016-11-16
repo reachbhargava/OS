@@ -1,0 +1,36 @@
+Question 2.1
+Load your FIFO device driver. What happens if you attempt to change the FIFO buffer size
+from two processes at the same time? What happens if you run two parallel processes
+where one is attempting to change the buffer size while the other is attempting to write data?
+Perform your tests multiple times; is the outcome always the same?
+
+IF we're changing the buffer size concurently the value of the later execution is used.
+It may even happen that fifo_size and the actual allocated memory for the fifo are not the same.
+
+When performing the test multiple times the outcome differs because of the execution order of the concurent accesses.
+We were not able to produce any faults in the allocation.
+
+
+Question 2.2
+Why is a FIFO that can be accessed by only one process at a time not very useful? 
+
+Because it is not pretty performant
+
+Whatis the problem in extending your FIFO to allow for reading and writing in parallel?
+
+The pointers might not be set correctly while concurrent access, so data might be lost.
+So one would need to implement synchronization behavior when accessing and changing the pointers.
+
+
+Question 2.3
+Imagine you want to extend your FIFO driver to behave like a traditional blocking pipe.
+Where would you need to add block and unblock operations for the involved processes?
+
+(Assuming waiting for read until there is data)
+
+We would need to extend the read function for blocking until there is data. And unblock when we recieved all data. (EOF?)
+(We would evaluate the fifo_fill value dynamically while reading and if it would be 0 and the end condition (EOF?) is not yet met we would wait for more data)
+
+(Assuming waiting for write until all data is written)
+We would need to extend the write function with a block when the buffer is full and continue writing when there is space again.
+(Also we would have to remove the error message when there is not enough space in the fifo left)

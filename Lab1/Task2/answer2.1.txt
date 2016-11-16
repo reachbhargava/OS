@@ -1,0 +1,6 @@
+Question: Execute your program from task 2.1 at least 100 times. Is the output of your program always
+exactly the same? Which values do the two threads print for my_value? Do you spot a
+difference compared to your program from task 1.1? Explain your observations.
+
+Answer: Yes, the output is always the same. All values are 18951, but this is just because of the sleep after thread creation.
+Because threads are sharing their global var scope, var gets actually changed for both threads.

@@ -1,0 +1,1 @@
+gcc -Wall task22.c -lm -o task22

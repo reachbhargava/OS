@@ -1,0 +1,8 @@
+Question 5.1
+Execute your program from task 5.1 at least 100 times. Do you observe differences in the executions? Explain your observations. In which scenarios would you use shared memory objects, in which message queues?
+	No difference found in the runs. In none of the runs, the child was fast enough to write before being read by the parent.
+	If there is large amounts of data to be shared and there is no structure to the data (message), shared memory is preferred, the overhead is low. 
+	
+Question 5.2
+Do you see use cases or reasons for using SMOs within a multi-threaded software?
+	If there is large amounts of data to be shared and there is no structure to the data (message), shared memory is preferred, the overhead is low.

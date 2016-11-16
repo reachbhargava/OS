@@ -1,0 +1,2 @@
+mknod -m 444 /dev/fifo0 c 240 0
+mknod -m 222 /dev/fifo1 c 240 1

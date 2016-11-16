@@ -1,0 +1,10 @@
+Load your module from task 1.2 and perform tests with your clock implementation including
+the configuration options. What behavior are you expecting and what are you observing?
+What happens if you read the clock file multiple times in a loop while concurrently changing
+the output formatting option?
+
+Expecting:Every time there is given a new value to the configuration file, the output changes its format.
+
+Observing: as expected
+
+If we're reading the file multiple times and changing the output format concurently the outpput changes when the format is changed.

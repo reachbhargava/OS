@@ -1,0 +1,21 @@
+[11/29/2015 18:42] root@ubuntu:/home/student/Documents/OSLab2# make
+make -C /lib/modules/3.5.0-37-generic/build SUBDIRS=/home/student/Documents/OSLab2 modules
+make[1]: Entering directory `/usr/src/linux-headers-3.5.0-37-generic'
+  CC [M]  /home/student/Documents/OSLab2/MyClockModule.o
+  Building modules, stage 2.
+  MODPOST 1 modules
+  CC      /home/student/Documents/OSLab2/MyClockModule.mod.o
+  LD [M]  /home/student/Documents/OSLab2/MyClockModule.ko
+make[1]: Leaving directory `/usr/src/linux-headers-3.5.0-37-generic'
+[11/29/2015 18:42] root@ubuntu:/home/student/Documents/OSLab2# insmod MyClockModule.ko
+[11/29/2015 18:42] root@ubuntu:/home/student/Documents/OSLab2# ls /proc/deeds_clock 
+/proc/deeds_clock
+[11/29/2015 18:42] root@ubuntu:/home/student/Documents/OSLab2# cat /proc/deeds_clock 
+current time: 1448818997 seconds 
+[11/29/2015 18:43] root@ubuntu:/home/student/Documents/OSLab2# cat /proc/deeds_clock 
+current time: 1448818999 seconds 
+[11/29/2015 18:43] root@ubuntu:/home/student/Documents/OSLab2# cat /proc/deeds_clock 
+current time: 1448819001 seconds 
+[11/29/2015 18:43] root@ubuntu:/home/student/Documents/OSLab2# cat /proc/deeds_clock 
+current time: 1448819004 seconds 
+[11/29/2015 18:43] root@ubuntu:/home/student/Documents/OSLab2# dmesg
